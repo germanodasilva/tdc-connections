@@ -49,3 +49,49 @@ oc new-project tdc-connections-2021
 ![Criando namespace](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/main/img/06-install-template.png)
 
 ### Configurando a autorização do SSO
+
+#### 1
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-01.png)
+
+#### 2
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-02.png)
+
+#### 3
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-03.png)
+
+#### 4
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-04.png)
+
+#### 5
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-05.png)
+
+#### 6
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-06.png)
+
+#### 7
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-07.png)
+
+#### 8
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-08.png)
+
+#### 9
+![Configurando o SSO](https://raw.githubusercontent.com/germanodasilva/tdc-connections-2021/developer/img/sso-09.png)
+
+
+
+
+   
+
+
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+   
