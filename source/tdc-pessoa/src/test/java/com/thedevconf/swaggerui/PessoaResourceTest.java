@@ -12,10 +12,9 @@ public class PessoaResourceTest {
     @Test
     public void testHelloEndpoint() {
         given()
-          .when().get("/pessoa")
+          .when().get("/api/pessoa")
           .then()
-             .statusCode(200)
-             .body(is("Hello RESTEasy"));
+             .statusCode(200);
     }
 
 }

@@ -1,0 +1,15 @@
+package com.thedevconf.kogito.model;
+
+import com.thedevconf.kogito.model.Pessoa;
+
+rule "Desconto idade" ruleflow-group "pessoa"
+
+when
+    $pessoa: Pessoa(idade > 13)
+then
+    modify($pessoa) {
+        setMaiorIdade(true)
+    };
+end
+
+ 
